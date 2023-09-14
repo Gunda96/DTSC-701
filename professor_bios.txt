@@ -1,0 +1,377 @@
+Biography Prof. Abadi performs research on database system architecture and implementation, especially at the intersection with scalable and distributed systems. He is best-known for the development of the storage and query execution engines of the C-Store (column-oriented database) prototype, which was commercialized by Vertica and eventually acquired by Hewlett-Packard and for his HadoopDB research on fault tolerant scalable analytical database systems which was commercialized by Hadapt and acquired by Teradata in 2014, and deterministic, scalable, transactional, distributed systems such as Calvin which is currently being commercialized by Fauna. Abadi has been a recipient of a Churchill Scholarship, a NSF CAREER Award, a Sloan Research Fellowship, a VLDB Best Paper Award, two VLDB "Test of Time" Awards (one for C-Store and one for HadoopDB), the 2008 SIGMOD Jim Gray Doctoral Dissertation Award, the 2013-2014 Yale Provost's Teaching Prize, and the 2013 VLDB Early Career Researcher Award. He was the PhD dissertation advisor of Alexander Thomson's and Jose Falerio's PhD dissertations, both of which won SIGMOD Jim Gray Doctoral Dissertation Awards (in 2015 and 2020 respectively)
+
+Biography Visit the webpage honoring Professor Agrawala's 50th anniversary here.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Bahar Asgari is an assistant professor in the Department of Computer Science, and the director of the Computer Architecture and Systems Lab (CASL) at the University of Maryland, College Park. Before joining UMD, she spent a year at Google, contributing to improving the performance of systems developed in Google and setting roadmaps across various tradeoffs to shape the next generation of systems, with a focus on optimizing memory utilization and improving reliability. Her research interests include but are not limited to domain-specific architecture design, near memory processing, and reconfigurable computing. Her proposed low-cost hardware accelerators that deal with essential challenges of sparse problems contribute to a widespread application domain from machine learning to scientific computing.
+
+No biography available on the website. NAD.
+
+Biography Abhinav Bhatele is an associate professor in the Department of Computer Science, and director of the Parallel Software and Systems Group at the University of Maryland, College Park. His research interests are broadly in systems and networks, with a focus on parallel computing and large-scale data analytics. He has published research in parallel programming models and runtimes, network design and simulation, applications of machine learning to parallel systems, parallel deep learning, and on analyzing/visualizing, modeling and optimizing the performance of parallel software and systems.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Yizheng Chen will join University of Maryland as an Assistant Professor of Computer Science in Fall 2023. She works in the intersection of AI and security. She is interested in using AI to solve security problems, such as detecting malware, vulnerability, attacks and fraud. She is also interested in improving the robustness of these machine learning models. Previously, she was a postdoctoral scholar at University of California, Berkeley and Columbia University. She holds a Ph.D. in Computer Science from Georgia Institute of Technology. Her work has received an ACM CCS Best Paper Award Runner-up and a Google ASPIRE Award. She is a recipient of the Anita Borg Memorial Scholarship.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Amol Deshpande is an Associate Professor in the Department of Computer Science at the University of Maryland with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS). He received his Ph.D. from University of California at Berkeley in 2004, and his B.Tech. degree from Indian Institute of Technology, Bombay in 1998.
+Dr. Deshpande's primary research area is Databases, and his research has spanned a spectrum of data management topics including query optimization, adaptive query processing, sensor network data management, scalable statistical modeling of data, uncertain data management, graph databases, and energy-efficient data management. His current research efforts focus on the challenges in managing and querying the inherently imprecise, incomplete, and uncertain data generated in environments like sensor networks, data streams, data integration, information extraction, and social networks. He has written over 50 research publications, and has received best paper awards at the VLDB 2004, EWSN 2008, and VLDB 2009 conferences. He received an NSF CAREER award in 2006. Dr. Deshpande has served as a program committee member for many conferences in databases and sensor networks, is on the editorial board for the Journal of Distributed and Parallel Databases, and has served on several NSF Review Panels. He also served as a Program Committee Vice-Chair for the IEEE International Conference on Data Mining (ICDM) in 2008 and IEEE International Conference on Data Engineering (ICDE) in 2011 and 2013.
+
+Biography My current research interests are on efficient parallel graph algorithms and parallel clustering. I am especially interested in designing efficient algorithms and systems for maintaining and analyzing graphs or pointsets that change over time.
+I am always looking to work with students interested in efficient parallel algorithms. Please send me an e-mail if you are interested in working with me.
+
+No biography available on the website. NAD.
+
+Biography Ramani Duraiswami is Professor and Associate Chair (for Graduate Studies) at the Department of Computer Science, and in UMIACS, at the University of Maryland. Prof. Duraiswami got his B. Tech. at IIT Bombay, and his Ph.D. at The Johns Hopkins University. After spending a few years working in industry, he joined the University of Maryland, where he established the Perceptual Interfaces and Reality Lab. He has broad research interests, including spatial audio capture rendering and personalization; computer vision; machine learning and scientific computing (with an emphasis on the fast multipole method). 
+He has published over 280 peer-reviewed archival papers, co-authored a book,  has several issued patents, and according to Google Scholar has an h-index of 64 (in 2023). Some of his research has been spun out into a startup, VisiSonics, whose technology is in millions of devices. A particular theme of Prof. Duraiswami’s recent research has been understanding the interaction of waves with objects - electromagnetic, acoustic, and visual; and using this understanding for applications in perception and imaging.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Feizi is an Associate Professor in the Computer Science Department at the University of Maryland, College Park. He holds a Ph.D. in EECS with a minor degree in mathematics from MIT. Prior to his appointment at UMD, he was a post-doctoral research scholar at Stanford University. Dr. Feizi’s research focuses on developing reliable and trustworthy Artificial Intelligence and Machine Learning. He has received multiple awards for his work including the ONR's Young Investigator Award, the NSF CAREER award, two best paper awards, the Ernst Guillemin thesis award, a teaching award, and more than fifteen research awards from national agencies such as NSF, DARPA, ARL, ONR, DOE, NIST as well as industry such as Meta, IBM, Amazon, Qualcomm and Capital One.
+
+Biography Co-author, Java Illuminated, 5th edition, Jones and Bartlett LearningAuthor, Android App Development, Jones and Bartlett Learning
+
+Biography Dr. Gasarch got his BS in Math and Applied Math at SUNY Stonybrook in the Spring of 1980.
+He then got a PhD from Harvard in Computer science in the Spring of 1985. He got a Job at Univ of MD as a professor in Fall of 1985 and has been there ever since. His main intersts have shifted from logic to combinatorics, but always with an eye towards applying these to computer science theory. He currently advised MANY High School Students, some of which have won awards.
+
+Biography Tom Goldstein is the Perotto Associate Professor of Computer Science at University of Maryland. His research lies at the intersection of machine learning and optimization, and targets applications in computer vision and signal processing. He works at the boundary between theory and practice, leveraging mathematical foundations, complex models, and efficient hardware to build practical, high-performance systems. He design optimization methods for a wide range of platforms ranging from powerful cluster/cloud computing environments to resource limited integrated circuits and FPGAs. Before joining the faculty at Maryland, Tom completed his PhD in Mathematics at UCLA, and was a research scientist at Rice University and Stanford University. Tom have been the recipient of several awards, including SIAM’s DiPrima Prize, a DARPA Young Faculty Award, a JP Morgan Faculty Award, an Amazon Research Award, and a Sloan Fellowship.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Mohammad T. Hajiaghayi is the Jack and Rita G. Minker Associate Professor of Computer Science at the University of Maryland with a joint appointment in the University's Institute for Advanced Computer Studies (UMIACS). In addition, he holds a Research Affiliate position in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and is a Permanent Member of Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers. Before joining the University of Maryland, he was a Senior Researcher in the Algorithms and Theoretical Computer Science group at AT&T Labs-- Research to which he is still a consultant. Before that, he was a one-year Postdoctoral Fellow in the School of Computer Science at Carnegie Mellon University (with ALADDIN project) and a one-year Postdoctoral Associate in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) from which he also earned his Ph.D in 2005. During his Ph.D. studies, he spent some time at IBM Research centers and Microsoft Research centers. Dr. Hajiaghayi got his M.Sc. in Computer Science from the University of Waterloo in 2001 and his B.Sc. in Computer Engineering from Sharif University of Technology in 2000.
+Dr. Hajiaghayi's research interests are algorithmic game theory and combinatorial auctions, network design, combinatorial optimizations and approximation algorithms, fixed-parameter algorithms, algorithmic graph theory, distributed and mobile computing, and computational geometry and embeddings. In the course of his professional career in these areas, he has published more than 110 papers in top conferences and journals of computer science, won a few best paper awards, and served in program committees or editorial boards of several well-known international conferences and journals. He has received an NSF CAREER Award in 2010, a Google Faculty Research Award in 2010, an ONR Young Investigator Award in 2011, and the University of Maryland Research and Scholarship Award (RASA) in 2011. He won best paper awards at the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2010, the International Symposium on Algorithms and Computation (ISAAC) 2006, and the Robocup 2001 Conference.
+
+No biography available on the website. NAD.
+
+Biography Jeff Hollingsworth is the Vice President of Information Technology and Chief Information Officer for the University of Maryland. He is also a Professor in the Computer Science Department. The division of IT provides services to the entire campus including computer networking, telephones, video conferencing, audio-visual, and computing. Dr. Hollingsworth is responsible for the university's overall technology environment, including critical IT services for research and teaching; administrative applications; information security and integrity; and broad technical support for faculty, staff and students.  He also leads campus-wide strategies and policies around campus use of technology.
+He received his PhD and MS degrees in computer sciences from the University of Wisconsin and a B. S. in Electrical Engineering from the University of California at Berkeley. He has conducted research in the area of High Performance Computing (HPC). His work has been used by major federal laboratories and been incorporated into products of several leading technology companies. He is also the Immediate Past Chair of the Association for Computing Machinery’s Special Interest Group on HPC.  He currently serves on the board of trustees of Internet2, and the higher education advisory boards of Cisco, Dell, and Splunk.
+
+No biography available on the website. NAD.
+
+Biography Dr. Furong Huang is an Assistant Professor of the Department of Computer Science at the University of Maryland. Her research focuses on machine learning, high-dimensional statistics, non-convex optimization, spectral methods, reinforcement learning and deep learning theory.
+The thesis of Dr. Huang’s research is to understand the foundations of deep learning under distribution shifts, adversarial perturbations and non-iid data. Through the investigation of principled methods that address the modern challenges in applying ML to real-world application, Dr. Huang’s group expands the scope of deep learning model design for learning in constrained edge clients and on graph data.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dave received his PhD from UMD.  Before returning as a professor, he was a researcher at Hewlett Packard Labs in Palo Alto, CA.  Dave's research interests include securing the web's public key infrastructure and defending against nation-state censorship.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography  
+Biography Available Here
+Research Links:
+GAMMA
+Publications Links:
+Google Scholar
+DBLP
+UMD GAMMA
+Semantic Scholar
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Chris is an Assistant Professor in the Department of Computer Science at UMD. His research develops new systems and algorithms for solving problems in computational imaging, machine learning, and wireless communications. Before joining UMD, he completed a postdoc in the Stanford Computational Imaging Lab. He received his B.S., M.S., and Ph.D. degrees in electrical and computer engineering from Rice University in 2013, 2014, and 2019, respectively. Chris has received several awards and fellowships including a AFOSR Young Investigator Program award, an Intelligence Community Postdoctoral Fellowship, an NSF Graduate Research Fellowship, a DoD NDSEG Fellowship, and a NASA Texas Space Grant Consortium Fellowship.
+
+No biography available on the website. NAD.
+
+Biography I have been programming computers since I taught myself BASIC, using an HP-2000, in 1972. After that, it was Fortran, APL, Pascal, C, C++, Java, and C#, as well as numerous assemblers along the way. My undergraduate thesis involved collecting signals from a photomultiplier tube with a 7400-series TTL counter interface I designed and built (this was the subject of a short paper in the American Journal of Physics, co-authored by my advisor, Dr. Mark Petersen). My graduate thesis was on using segmented architecture machines to compute large synthetic images. As an attorney, a large part of my professional work for the last 25 years has been to assist other lawyers in understanding evidence recovered from computers, and to testify as an expert witness regarding that evidence. My primary area of interest now is in procedural modeling for run-time creation of three-dimensional environments for computer games.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography David Mount is a professor in the Department of Computer Science at the University of Maryland with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS).  He received his Ph.D. from Purdue University in Computer Science in 1983, and started at the University of Maryland in 1984. In 2001 he was a visiting professor at the Hong Kong University of Science and Technology.
+He has written over 150 research publications on algorithms for geometric problems, particularly problems with applications in image processing, pattern recognition, information retrieval, and computer graphics.  He currently serves or has served on the editorial boards of a number of journals, including ACM Trans. on Mathematical Software, Computational Geometry: Theory and Applications, International Journal of Computational Geometry & Applications, and Pattern Recognition. He was the conference chair for the 24th Annual Symposium on Computational Geometry in 2008. He has served on the program committees of many of the major conferences in his area, and he served as the program committee co-chair for the 19th ACM Symposium on Computational Geometry in 2003 and the Fourth Workshop on Algorithm Engineering and Experiments in 2002 and SPIE's Conferences on Vision Geometry from 2001 through 2006.
+He has won a number of awards for excellence in teaching, including twice winning the University of Maryland's College of Computer, Mathematical, & Natural Sciences, Dean's Award for Excellence in Teaching, and the Award for Teaching Excellence Appreciation in 2001 at the Hong Kong University of Science and Technology. He has co-authored the textbook Data Structures and Algorithms in C++ with Mike Goodrich and Roberto Tamassia.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Pop received his Ph.D. in Computer Science at Johns Hopkins University where he focused on algorithms for computer graphics and Geographic Information Systems (GIS) applications. He then joined The Institute for Genomic Research (TIGR) as a Bioinformatics Scientist, where he was responsible for the development of genome assembly algorithms. During this time, Dr. Pop participated in a number of bacterial and eukaryotic genome projects including important human pathogens such as Bacillus anthracis and Entamoeba hystolitica. Since joining the University of Maryland, Dr. Pop has continued to develop novel approaches for genome assembly and analysis, and has developed extensive expertise in the analysis of metagenomic data. His lab developped a number of widely-used computational tools for the analysis of genomic and metagenomic data. Furthermore, Dr. Pop is active in efforts to diversify the computer science and computational biology communities, both at UMD and more broadly.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Regli is a computer scientist who has focused his career on interdisciplinary and use-inspired problems spanning engineering, artificial intelligence and computational modeling and graphics. His most recent activities have deployed cyber-infrastructure systems to capture and curate engineering and science data in order to ensure long-term sustainability. Dr. Regli’s current interests include computational tools to exploit the properties of advanced materials, additive manufacturing systems and enabling new paradigms for design and production.   He has published more than 250 technical articles and his research has spawned two start-up technology companies (one focused on mobile communications for public safety, the other on information management in edge networks) and resulted in five foundational U.S. Patents in the area of 3D CAD search.
+From 2014 to 2017 Regli served on the leadership team of the Defense Advanced Research Projects Agency (DARPA), as Deputy Director (9/2014-12/2016) and then Acting Director (1/2017-7/2017) of the Defense Sciences Office (DSO).  During his tenure, DSO initiated programs in areas as diverse as artificial intelligence, design and manufacturing, social science, applied mathematics, physical sciences and advanced sensing technologies.  Regli’s other government service includes as a Scientific Adviser to the U.S. Department of Energy's (DoE) National Nuclear Security Administration (NNSA) in the areas of information technology and manufacturing (2010-2014) and as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology (NIST) (1995-1997).  For his contributions, Regli received the DARPA Meritorious Public Service Medal (2018).
+Dr. Regli holds a Ph.D. in Computer Science from the University of Maryland at College Park and Bachelor of Science degree in Mathematics from Saint Joseph's University. He is a member of the American Association for the Advancement of Science (AAAS); an elected senior member of the Association of Computing Machinery (ACM) and of the Association for the Advancement of Artificial Intelligence (AAAI); and a Fellow of the Computer Society of the Institute of Electrical and Electronics Engineers (IEEE) for his “contributions to 3D search, design repositories and intelligent manufacturing.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Aravind Srinivasan is a Professor with the Department of Computer Science and the Institute for Advanced Computer Studies at the University of Maryland, College Park. He received his undergraduate degree from the Indian Institute of Technology, Madras, and his Ph.D. from Cornell University, both in Computer Science. He was a postdoctoral researcher at the Institute for Advanced Study in Princeton and at DIMACS. He has also worked in industrial research, at Bell Labs.
+Aravind Srinivasan's research interests are in randomized algorithms, networking, social networks, and combinatorial optimization, as well as in the growing confluence of algorithms, networks, and randomness, in fields including the social Web, public health, biology, and energy. He has published 90+ papers in these areas, in journals including Nature, Journal of the ACM, IEEE/ACM Transactions on Networking, and the SIAM Journal on Computing. He is an editor of three journals, and has served on the program committees of various conferences. His papers have been (co-)recipients of the Best Paper/Best Student Paper Awards at ACM STOC 1992, HiPC 2007, IEEE Socialcom 2011, and the Academy of Management Annual Meeting, 2012. He received an IBM Graduate Fellowship during his doctoral studies. He is a AAAS Fellow and an IEEE Fellow.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Pratap Tokekar is an Assistant Professor in the Department of Computer Science and UMIACS at the University of Maryland. Between 2015 and 2019, he was an Assistant Professor at the Department of Electrical and Computer Engineering at Virginia Tech. Previously, he was a Postdoctoral Researcher at the GRASP lab of University of Pennsylvania. He obtained his Ph.D. in Computer Science from the University of Minnesota in 2014 and Bachelor of Technology degree in Electronics and Telecommunication from College of Engineering Pune, India in 2008. He is a recipient of the NSF CAREER award (2020) and CISE Research Initiation Initiative award (2016). He serves as an Associate Editor for the IEEE Robotics & Automation Letters, IEEE Transactions of Automation Science & Engineering, and the ICRA and IROS Conference Editorial Board.
+
+Biography David Van Horn is an Associate Professor in the Department of Computer Science and the Institute for Advanced Computer Studies (UMIACS) at the University of Maryland, College Park. His research interests are in programming languages and formal methods, where he works toward making the construction of reusable, trusted software components possible and effective. He publishes regularly in the flagship SIGPLAN conferences, POPL, PLDI, OOPSLA, and ICFP, and his work has been recognized with a NSF CAREER Award, a CRA Computing Innovation Fellowship, a Communications of the ACM Research Highlight, an OOPSLA Distinguished Paper Award, and an ICFP Most Influential Paper Award.  He is the co-author of “Realm of Racket,” an illustrated book on programming video games, written and illustrated with eight undergraduate students. He is committed to broadening participation in computer science and is currently serving on the Steering Committee of the ACM SIGPLAN Programming Languages Mentoring Workshop and the faculty mentor for Technica, the world's largest all-women and non-binary hackathon.
+
+Biography Amitabh Varshney is the Dean of the College of Computer, Mathematical and Natural Sciences and Professor of Computer Science. He served as director of the UMD Institute for Advanced Computer Studies (UMIACS) from 2010 to 2018 and as the interim Vice President for Research during 2016 - 2017. A leader in interactive visual computing research, Varshney’s work has focused on exploring the applications of high-performance computer graphics and visualization in science, engineering, and medicine. His research results are being used in climate modeling, plasma physics, nanomanufacturing, the design of buildings, cars, and submarines, medical imaging, gene sequencing, and the creative arts. He has engaged in research collaborations with a variety of partners in industry and government agencies.
+Varshney has worked on the design and implementation of virtual walkthroughs of proposed structures, such as buildings, automobiles and submarines. His research in molecular graphics has involved devising new algorithms for parallel and analytical computation and visualization of molecular surfaces, their interfaces, and electrostatics.
+Varshney has also contributed toward the development of new algorithms for a number of research areas in graphics and visualization including visual saliency, summarization of large visual datasets, automatically generating multiresolution hierarchies, procedural textures, and rendering with points, images, meshes, and volumes. He is currently exploring several applications in general-purpose high performance parallel computing using clusters of CPUs and Graphics Processing Units (GPUs). He has consulted and collaborated with NVIDIA, Honda, IBM, Daimler Chrysler, General Dynamics, and Reuters.
+As part of the UMD-University of Maryland, Baltimore (UMB) strategic partnership, Varshney helped bring together scientists and clinicians from both institutions to establish a multi-disciplinary Center for Health-related Bioinformatics and Bio-Imaging (CHIB), tasked with solving grand challenges in personalized medicine and health care.
+Varshney received a National Science Foundation (NSF) CAREER Award, given to outstanding junior faculty who exemplify the role of teacher-scholars so they can further their research in their areas of expertise, in 1995 and the IEEE Visualization Technical Achievement Award in 2004.
+He was elected as a fellow of the IEEE in 2010 and is a recipient of the IEEE Technical Achievement Award. He is the director of the NVIDIA CUDA Center of Excellence at UMD and serves as a Director of the IEEE Visualization and Graphics Technical Committee.
+Varshney received a B. Tech. in computer science from the Indian Institute of Technology, Delhi in 1989 and an M.S. and doctorate in computer science from the University of North Carolina at Chapel Hill in 1991 and 1994.
+
+Biography I am an Associate Professor in the Department of computer science and a Fellow of the Joint Center for Quantum Information and Computer Science (QuICS) at the University of Maryland, College Park. I am also an Amazon Visiting Academic. My research aims to bridge the gap between the theoretical foundation of quantum computing and the limitation of realistic quantum machines. More specifically, I am working on the foundations of practical quantum applications on realistic quantum machines by investigating computational models that capture the native programmability of quantum devices.  I am also building efficient and reliable systems to operate both near-term and long-term quantum devices. Before coming to Maryland, I was an Assistant Professor in the Computer and Information Science Department at the University of Oregon from 2015 to 2017. Before that, he was a Postdoctoral Associate at the Massachusetts Institute of Technology from 2013 to 2015. He was also a Simons Research Fellow at the Simons Institute for the Theory of Computing at Berkeley, for the program of Quantum Hamiltonian Complexity in Spring 2014. I received my Ph.D. in theoretical computer science in 2013 (advisor: Yaoyun Shi) from the University of Michigan, Ann Arbor, and his B.S. degree in mathematics and physics in 2008 from the Academic Talent Program, Tsinghua University. I am a recipient of the Sloan Research Fellowship, NSF CAREER, and AFOSR YIP awards.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Tianyi Zhou is a tenure-track assistant professor of Computer Science and UMIACS at University of Maryland, College Park. His research interests are in machine learning, optimization, and natural language processing. He has published ~90 papers at NeurIPS, ICML, ICLR, AISTATS, ACL, EMNLP, NAACL, COLING, CVPR, KDD, ICDM, AAAI, IJCAI, ISIT, Machine Learning (Springer), IEEE TIP/TNNLS/TKDE, etc. He is the recipient of the Best Student Paper Award at ICDM 2013 and the 2020 IEEE TCSC Most Influential Paper Award. He served as an SPC member or area chair in AAAI, IJCAI, KDD, WACV, etc. Tianyi was a visiting research scientist at Google and research intern at Microsoft Research Redmond and Yahoo! Labs. 
+His recent works study how, why, and when to translate human learning strategies (e.g., curriculum, retention, sub-tasking, curiosity, exemplar learning, collaborative learning, etc.) to improve machine learning in the wild (e.g., with unlabeled, biased, noisy, redundant or distributed data, extrapolation to unseen tasks/environments). His works are built upon empirical/theoretical analysis to the learning dynamics of neural networks and tools from discrete and continuous optimization. His goal is to develop efficient, versatile, trustworthy, and environmentally-friendly hybrid-intelligence based on coevolution between human and machine.
+
+Biography Matthias Zwicker is the Elizabeth Iribe Chair for Innovation and the Phillip H. and Catherine C. Horvitz Professor of Computer Science, and currently serves as the Chair of the Department of Computer Science. He joined UMD in March 2017 as the Reginald Allan Hahne Endowed E-Nnovate Professor in Computer Science. He obtained his PhD from ETH in Zurich, Switzerland, in 2003. From 2003 to 2006 he was a post-doctoral associate with the computer graphics group at the Massachusetts Institute of Technology, and then held a position as an Assistant Professor at the University of California in San Diego from 2006 to 2008. From 2008-2017, he was a professor in Computer Science at the University of Bern, Switzerland, where he served as the head of the Computer Graphics Group and as director of undergraduate and graduate studies. His research focus is on the intersection of artificial intelligence and computer graphics, with the goal of enabling next generation AR/VR and computer graphics applications. He has served as a papers co-chair and conference chair of the IEEE/Eurographics Symposium on Point-Based Graphics, and as a papers co-chair for Eurographics and the Eurographics Symposium on Rendering. He has been a member of program committees for various conferences including ACM SIGGRAPH, ACM SIGGRAPH Asia, and Eurographics, and he has served as an associate editor for journals such as the Computer Graphics Forum, IEEE TVCG, and the Visual Computer. As an active member of the UMD community, he has served as a University Senator for the CS department, as a faculty co-lead in developing the new Immersive Media Design major, and as a faculty mentor in the Gemstone Honors Program.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Benjamin B. Bederson is a Professor of Computer Science and prior director of the Human-Computer Interaction Lab at the Institute for Advanced Computer Studies and iSchool at the University of Maryland. An ACM Distinguished Scientist, his research is on human computation, mobile device interfaces, interaction strategies, digital libraries, and digital education.  He is also Co-founder and Chief Scientist of Zumobi, a premium mobile app network.
+He is well known for his work on Zoomable User Interfaces (ZUIs) since the mid-1990's including the Pad++ and Piccolo toolkits for zoomable and structured 2D graphics. That work led to his well known applications around personal photo management (PhotoMesa), calendaring (DateLens) and hierarchical data visualization (SpaceTree). ZUIs have since become well established in industry in a wide range of domains including maps and mobile phones. Ben is also well known for his work around children's educational technologies including his notable International Children's Digital Library (at www.childrenslibrary.org).
+More recently, Ben has established himself in the areas of human computation and online education. Human Computation is an approach to combine human with computational effort to solve problems at a scale and quality that neither could accomplish alone. One important example of this work is his NSF and Google supported work on MonoTrans, a system that enables monolingual human speakers to collaboratively translate text. Online education connects to human computation because one of the essential challenges is in scaling up individualized instruction and instructor connections to and awareness of class activity.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Michael W. Hicks is a professor in the Computer Science Department and UMIACS at the University of Maryland, College Park. He received is Ph.D. in Computer and Information Science from the University of Pennsylvania in August 2001, and then spent one year as a post-doctoral associate affiliated with the Information Assurance Institute of the Computer Science Department at Cornell University. During academic year 2008 he spent his sabbatical in Cambridge, England visiting Microsoft Research and the University of Cambridge Computer Laboratory.
+His research focuses on using programming languages and analyses to improve the security, reliability, and availability of software. Noteworthy among his research accomplishments is the development of analysis and compilation tools for enabling software to be safely updated without shutting it down. He has explored the design of new programming languages and analysis tools for automatically discovering or remediating software flaws and security vulnerabilities. He has also conducted studies on the utility of defect detection tools according on outcomes of human users, and explored distributed systems design and evaluation, particularly when adaptivity and security are system goals. Recently he has turned his attention to exploring means for securing remote and distributed computations among untrusted parties by combining cryptographic and programming language techniques.
+During his career he has published more than 85 refereed conference and journal papers, many in highly selective venues. He won the ACM SIGPLAN Doctoral Dissertation Award in 2001, and an NSF CAREER award in 2003, and has three times won the Department of Computer Science's Faculty Teaching Award. He recently served as Program Chair for the 2012 ACM Symposium on the Principles of Programming Languages, the premier venue for theoretical contributions to programming languages.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Aniket Bera is an Associate Professor at the Department of Computer Science at Purdue University. He is also a Research Professor at the University of Maryland at College Park . Prior to this, he was a Research Assistant Professor at University of North Carolina at Chapel Hill. He received his Ph.D. in 2017 from the University of North Carolina at Chapel Hill. He is also the founder of Project Dost. He is currently serving as the Senior Editor for IEEE Robotics and Automation Letters (RA-L) in the area of "Planning and Simulation" and the Conference Chair for the ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG 2022).
+His core research interests are in Affective Computing, Computer Graphics (AR/VR, Augmented Intelligence, Multi-Agent Simulation), Social Robotics, Autonomous Agents, Cognitive modeling and planning for intelligent characters.
+He has advised and co-advised over multiple M.S. and Ph.D. students. He has authored over 65+ papers, 1800+ citations and his work has won multiple awards at top Graphics/VR conferences. He also works with the University of Maryland at Baltimore Medical School to build algorithms and systems to help therapists and doctors detect mental health and social anxiety issues (AI + Mental Health). His research involves novel combinations of methods and collaborations in machine learning, computational psychology, computer graphics, and physically-based simulation to develop real-time computational models to learn human behaviors. Dr. Bera has previously worked in many research labs, including Disney Research, Intel, and Centre for Development of Advanced Computing.
+aper awards in top conferences and journals. Dr. Bera has previously worked in many research labs, including Disney Research, Intel, and Centre for Development of Advanced Computing (Govt. of India).
+Dr. Bera's research has been featured on CBS, WIRED, Forbes, FastCompany, Times of India etc.
+Note: This WWW isn't updated regularly. For full list of publications, grants and workshops please refer to CV or Google Scholar
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Niklas Elmqvist is a professor in the iSchool (College of Information Studies) at University of Maryland, College Park. He received his Ph.D. in computer science in 2006 from Chalmers University in Gothenburg, Sweden, and has conducted research at Georgia Institute of Technology in Atlanta, GA (Spring 2006), INRIA in Paris, France (Spring 2007), and Microsoft Research in Paris, France (2007-2008). Prior to joining University of Maryland, he was an assistant professor of electrical and computer engineering at Purdue University in West Lafayette, IN. His research area is information visualization, human-computer interaction, and visual analytics. He is the recipient of an NSF CAREER award as well as best paper awards from the IEEE Information Visualization conference, the International Journal of Virtual Reality, and the ASME IDETC/CIE 2013 conference. He is an associate editor of the Information Visualization journal as well as co-editor of the Morgan Claypool Synthesis Lectures on Visualization. His research has been funded by both federal agencies such as NSF and DHS as well as by companies such as Google, NVIDIA, and Microsoft. He is also the recipient of the Purdue Student Government Graduate Mentoring Award in 2014, a Ruth and Joel Spira Outstanding Teacher Award in 2012, and the Purdue ECE Chicago Alumni New Faculty award in 2010.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography  
+Fall 2018: CMSC498X Intro to Wireless Comms and SDR (created course)
+Fall 2019: CMSC498X Intro to Wireless Comms and SDR
+Spring 2021: MSML621 Machine Learning for Wireless Communications
+Fall 2022: MSML621 Machine Learning for Wireless Communications
+I also work full time at Microsoft and help lead the GNU Radio project
+For an introduction to SDR using Python, check out my free online textbook PySDR
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Anton Rytting is an Associate Research Scientist at the University of Maryland, College Park, Applied Research Laboratory for Intelligence and Security (ARLIS). He has taught for UMD’s College of Information Science (Maryland’s iSchool), Linguistics Department, and the Computer Science Department. Dr. Rytting is a computational linguist with prior work in corpus normalization and quality control, automatic cognate/loanword detection, and natural language processing for under-resourced languages and social media text.
+Dr. Rytting led the development of the University of Maryland’s “Did You Mean…?” (DYM) tool, which supports error-tolerant search of lexical resources, and the related DYM toolkit, which allows non-programmers to develop error-tolerant lexical search capabilities for themselves. Dr. Rytting also served as the site Co-Principal Investigator for the UMD contribution to the testing and evaluation (T&E) team for the IARPA Babel program and as the Principal Investigator of a project normalizing speech transcriptions across dialects for colloquial Arabic.  He also served as PI for a project to collect a new corpus and develop language-specific features in social media text predictive of certain personality and cognitive traits.
+Dr. Rytting is currently collaborating with Dr. Susannah Paletz (PI) and other University of Maryland researchers on a Minerva Research Initiative grant to study the role of emotional content and narrative in predicting the rate at which social media posts are shared. For more details on this project are available at Emotions in Social Media.
+Recent Publications
+Hull, J., Novak, V., Rytting, C.A., Rodrigues, P.R., Frank, V.M., and Swahn M. 2021.  Personality Trait Identification using the Russian Feature Extraction Toolkit.  In Proceedings of the 2021 International Conference on Recent Advances in Natural Language Processing (RANLP 2021).
+Marvi, S., Novak, V., Morrison, M., Gordon, R., Wood, T., Oates, S., Rytting, C.A., Jones, K., Janzen, S., & Maxwell, M. (2021). COVID Needles in Social Media Haystacks: Identifying Cross-Language Longitudinal Changes in Pandemic-Related Discussion Topics. 2021 IdeaS Conference.
+Stepanova, N., Rytting, C.A., Golonka, E., & Paletz, S. (2021). Predicting Popularity of Polish Facebook Posts Using Author and Content Features. Working Paper presented at the International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS).
+Rodrigues, P., Novak, V., Rytting, C.A., Yelle, J., Boutz, J., and Buckwalter, T. (2018). Arabic Data Science Toolkit: An API for Arabic Language Feature Extraction.  Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018).  Miyazaki, Japan: European Language Resources Association (ELDA).
+Rytting, C. A., & Yelle, J. (2017). DECCA Repurposed: Detecting transcription inconsistencies without an orthographic standard. Proceedings of the 2nd Workshop on the Use of Computational Methods in the Study of Endangered Languages, 116–121. https://doi.org/10.18653/v1/W17-0116
+
+Biography Important note: Graduate students interested in joining Sahinalp group should first send an email to cenk [dot] sahinalp [-at-] nih [dot] gov
+S. Cenk Sahinalp received his B.Sc. in Electrical Engineering at Bilkent University, Ankara, Turkey and his Ph.D. in Computer Science from the University of Maryland, College Park. His Ph.D. research was on parallel and serial algorithms for string/sequence processing. After a brief postdoctoral fellowship at Bell Labs, Murray Hill, he has worked as a Computer Science professor, most recently at Indiana University, Bloomington.
+Sahinalp’s research has focused on combinatorial algorithms and data structures (especially for strings/sequences) and their applications to biomolecular sequence analysis, especially in the context of cancer. In the past decade, his lab has developed several algorithmic methods for efficient and effective use of high-throughput sequencing data for better characterization of the structure, evolution and heterogeneity of cancer genomes. He has (co)trained more than two dozen Ph.D. students and postdocs, many of whom now hold independent academic and research positions in the U.S., Canada and elsewhere.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography John S. Baras received the B.S. in Electrical Engineering from the National Technical University of Athens, Greece, in 1970, and the M.S. and Ph.D. in Applied Mathematics from Harvard University in 1971 and 1973.
+Professor Baras was the Founding Director of the Institute for Systems Research (one of the first six NSF Engineering Research Centers) from 1985 to 1991.  Since August 1973 he has been with the Electrical and Computer Engineering Department (ECE), and the Applied Mathematics Faculty, at the University of Maryland, College Park, where he is currently a Distinguished University Professor holding a permanent joint appointment with ECE and ISR. In February 1990 he was appointed to the Lockheed Martin Chair in Systems Engineering.  Since 1992  Dr. Baras has been the Founding Director of the Maryland Hybrid Networks Center (HyNet) ) (an industry-university-government consortium, with substantial support from DoD, NASA and industry focusing on hybrid wireless networks). He was named a Distinguished University Professor by the University of Maryland in 2018. It is the highest honor bestowed by the university on its faculty.
+Among his awards are: a 1978 Naval Research Laboratory Research Publication Award; the 1980 Outstanding Paper Award of the IEEE Control Systems Society; 1983 and 1993 Alan Berman Research Publication Awards from NRL; 1991 Outstanding Invention of the Year Award from the University of Maryland for the invention of a “Low Complexity CELP Speech Coder”; 1994 Outstanding Invention of the Year Award from the University of Maryland for the invention of "A System Design for a Hybrid Network Data Communications Terminal Using Asymmetric TCP/IP to Support Internet Applications"; November 1995, Outstanding Contributions to Seniors Award, from the Vice President for Student Affairs and the Senior Council; January 1996, Outstanding Paper Award, "ATM in Hybrid Networks", presented at Design SuperCon 1996 Conference, Santa Clara, CA;  April 1996, MIPS Research Award of Excellence for Outstanding Contributions in Advancing Maryland Industry for work done with Hughes Network Systems; December 1998, the Mancur Olson Research Achievement Award, from the Univ. of Maryland College Park (award recognizes faculty whose research achievements have been extraordinary); December 2002, Best paper Award at the 23rd Army Science Conference, Orlando, Florida; September 2004, Best paper Award 2004 Wireless Security conference.
+Dr. Baras is a Fellow of IEEE, SIAM, AAAS, the National Academy of Inventors, IFAC and AMS. He was elected Foreign Member of the Royal Swedish Academy of Engineering Sciences, March 2006.
+He has consulted extensively with industry and government on various automation, systems and telecommunication problems. He has served in the following: Board of Governors of the IEEE Control Systems Society; IEEE Engineering R&D Committee; Aerospace Industries Association advisory committee on advanced sensors; IEEE Fellow evaluation committee. He is currently serving on the editorial board of Mathematics of Control, Signals, and Systems, the editorial board of Systems and Control: Foundations and Applications, the editorial board of IMA J. of Mathematical Control and Information, the editorial board of Systems Automation-Research and Applications. Dr. Baras is a world renowned researcher in communication and automation systems, has received many awards for his papers and research, has more than 450 technical papers published and was the editor of the book “Recent Advances in Stochastic Calculus”, Springer, 1990. He holds three patents (all in signal processing) and has four pending. He has graduated 42 PhD students and 70 MS students. He has sponsored and supervised 32 postdoctoral scholars. Dr. Baras is internationally known for his leadership of industry-university-government consortia and has collaborated effectively with both industry and government scientists and engineers.
+Professor Baras' research interests include: wireless networks, sensor networks, distributed networked control systems, satellite and hybrid communication networks, integrated network management systems, fast Internet services via hybrid, satellite and wireless networks, network security and intrusion detection, stochastic systems, robust control of nonlinear systems, real-time parallel architectures for nonlinear signal processing, intelligent control systems, expert and symbolic systems for control and communication systems synthesis, distributed parameter systems, planning and optimization, real-time architectures for intelligent control, speech and image compression and understanding, biomimetic algorithms and systems for signal processing and sensor networks, model-based systems engineering, model-based software engineering, integration of logic programming and nonlinear programming for trade-off analysis, object oriented modeling of complex engineering systems, validation and verification of systems models and designs, intelligent manufacturing of smart materials, integrated product-process design. He is widely credited for inventing and establishing Internet over satellite and hybrid networks and for initiating the new “component based” approach to wireless network modeling and design. He has more than 30 years experience and contributions to defense related problems.
+Professor Baras was the initial principal architect of the ISR M.S. program in Systems Engineering. He arranged for industry participation in advisory and teaching capacity. More recently Dr. Baras has been heavily involved in the development of new core courses for systems engineering. These include courses on systems modeling, systems engineering fundamentals, system requirements analysis, system trade-off analysis and tools, system validation-verification and testing and systems integration. In his efforts to teach systems thinking at the undergraduate level to all Engineering majors he is developing three courses, with the objective to introduce in the foundational core for engineering education the key concepts of system models, controls and signals in a way that integrates computer related ideas and constructs into these foundations from the start. His efforts address the often emphasized need for a new integrative approach to engineering (holistic rather than in parts) which in turn addresses the needs for modular design, systems thinking and team work.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Leila De Floriani is a full professor at the University of Maryland with a joint appointment with the Department of Geographical Sciences and University of Maryland Institute for Advanced Computer Studies  (UMIACS).  She is also affiliated with the Department of Computer Science,  with the Center for Geospatial Information Science and with the Center for Automation Research. She has previously been a professor at the University of Genova (Italy), where she developed the first undergraduate and graduate curricula in computer graphics in Italy, and served as Director of the Ph.D. program in Computer  Science for eight years. During her career, she has also held positions at the University of Nebraska, at Rensselaer Polytechnic Institute, and at the Italian National Research Council.
+De Floriani was the 2020 President of the IEEE Computer Society. She is a member of the Board of Governors of the IEEE Computer Society since 2017. She currently serves as the founding Chair of the IEEE Computer Society Diversity and Inclusion Committee. She  is a member of the Computing Research Association (CRA) Board, and of the IEEE Conferences and Conference Publications Committees.
+She is a Fellow of IEEE, a Fellow of the International Association for Pattern Recognition (IAPR), a Fellow of the Eurographics Association,  a Pioneer of the Solid Modeling Association and an inducted member of the IEEE Visualization Academy. She is an  IEEE Computer Society Golden Core awardee and an inducted member of the IEEE Honor Society IEEE Eta Kappa Nu.
+She has been the editor-in-chief of the IEEE Transactions on Visualization and Computer Graphics (TVCG) for two terms from 2015 to 2018,  and served as an associate editor for IEEE TVCG from 2004 to 2008. De Floriani is currently an  editor of ACM Transactions on Spatial Algorithms and Systems, Computers & Graphics,   Computer Science Review, GeoInformatica, Graphical Models, ISPRS International Journal of Geo-Information and International Journal of Spatial Information Science. She has served on the program committees of over 150 leading international conferences, contributing in several conferences in a leadership capacity.
+De Floriani has authored over 300 peer-reviewed scientific publications in data visualization, spatial data representation and processing, computer graphics, geometric modeling, shape analysis and understanding, garnering several best paper awards and invitations as a keynote speaker. Her research has been funded by numerous national and international agencies, including the European Commission and the National Science Foundation.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Vanessa Frias-Martinez is an assistant professor in the iSchool at the University of Maryland. She is interested in urban computing, with a focus on the intersection between big data and social development. She combines data mining and machine learning techniques to extract socially significant information from the digital traces of mobile and ubiquitous technologies.  Vanessa received her M.Sc. and Ph.D. degrees in Computer Science from Columbia University. From 2009 to 2013, she was a researcher in the Data Mining and User Modeling Group at Telefonica Research in Madrid, Spain.
+
+No biography available on the website. NAD.
+
+Biography Dr. Naeemul Hassan is an assistant professor at the Philip Merrill College of Journalism and the College of Information Studies and an affiliate assistant professor in the computer science department of the University of Maryland, College Park. He has interests in research areas related to Big Data and Data Science, including Database, Data Mining, and Natural Language Processing. His current research focus is on Computational Journalism and Social Sensing. His recent research projects involve automated fact-checking, credible health information, and misinformation detection. He has built computational technologies (e.g., BaitBuster, ClaimBuster) that have been used by professional journalists to automate fact-checking and identify potential misinformation. His research has been sponsored by National Science Foundation (NSF). Before joining UMD, he was an assistant professor in the Computer and Information Science department at the University of Mississippi. He earned a doctoral degree in Computer Science from the University of Texas at Arlington in 2016.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Dr. Richard Marciano is a professor in the College of Information Studies at the University of Maryland.  He is an affiliate faculty member of ISR and the Department of Computer Science. Prior to that, he was a Professor at the School of Information and Library Science at the University of North Carolina at Chapel Hill for 5 years. He was also a Research Scientist at the San Diego Supercomputer Center (SDSC) at the University of California San Diego (UCSD) for 13 years.  His research interests center on computational archival science (CAS), digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data.  He is also the 2017 recipient of the Emmett Leahy Award for "outstanding and sustained work in digital records and information management". He holds degrees in Avionics and Electrical Engineering, a Master's and Ph.D. in Computer Science from the University of Iowa, and conducted a postdoc in Computational Geography.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography My home appointment  is in the Department of Aerospace Engineering, where I have the title of Assistant Professor. As you can see here, I have also generously been given an affiliate appointment in the Department of Computer Science.
+I was previously a National Research Council (NRC) Postdoctoral Associate at the U.S. Naval Research Laboratory (NRL). Prior to that I was a Research Associate with the Department of Aerospace Engineering Sciences at the University of Colorado at Boulder; in residence at the Control Science Center of Excellence, within the Air Force Research Laboratory. I was previously a Postdoctoral Associate with Aerospace Robotics and Embedded Systems Laboratory and the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology. I received my PhD at the University of Colorado at Boulder, with Correll Lab in the Department of Compute Science and the College of Engineering and Applied Science.
+
+No biography available on the website. NAD.
+
+Biography Philip Resnik holds a joint appointment as Professor in the University of Maryland Institute for Advanced Computer Studies and the Department of Linguistics, and an Affiliate Professor appointment in Computer Science. He earned his bachelor's degree in Computer Science at Harvard in 1987, and his Ph.D. in Computer and Information Science at University of Pennsylvania in 1993, and joined the University of Maryland faculty in 1996. His industry experience prior to entering academia includes time in R&D at Bolt Beranek and Newman, IBM T.J. Watson Research Center, and Sun Microsystems Laboratories.   Resnik's research focuses on computational modeling of language that brings together linguistic knowledge, domain expertise, and data-driven machine learning methods, with an emphasis on applications in computational social science as well as experience in multilingual text analysis and machine translation, and scientific interests in computational cognitive neuroscience.  He holds two patents and has authored or co-authored more than 100 peer-reviewed articles and conference papers. At various times his work has been highlighted in Newsweek, The Economist, New Scientist, and on National Public Radio, and he has been a repeat organizer and panelist at SXSW Interactive. Outside academia, Resnik was a technical co-founder of CodeRyte (clinical natural language processing, acquired in 2012 by 3M Health Information Systems), and is an advisor to Converseon (social strategy and analytics), FiscalNote (machine learning and analytics for government relations), and SoloSegment (web site search and content optimization).
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Haizhao Yang is an associate professor of mathematics and computer science at University of Maryland College Park. Prior to that, he was an assistant professor at Purdue University and the National University of Singapore, and a visiting assistant professor at Duke University from 2015 to 2017. He received a B.Sc. at Shanghai Jiao Tong University in 2010, an M.Sc. at the University of Texas at Austin in 2012, and a Ph.D. at Stanford University in 2015. His research focuses on machine learning, data science, applied and computational mathematics. He is a recipient of the National Science Foundation CAREER Award (2020) and Office of Naval Research (ONR) Young Investigator Award (2022) for his contribution to deep learning theory and applications.
+
+No biography available on the website. NAD.
+
+Biography Kaiqing Zhang is currently an Assistant Professor at the Department of Electrical and Computer Engineering (ECE) and the Institute for System Research (ISR), at the University of Maryland, College Park. He is also affiliated with the Department of Computer Science (CS), the University of Maryland Institute for Advanced Computer Studies (UMIACS), and the Maryland Robotics Center (MRC). During the deferral time before joining Maryland, he was a postdoctoral scholar affiliated with LIDS and CSAIL at MIT, and a Research Fellow at Simons Institute for the Theory of Computing at Berkeley. He finished his Ph.D. from the Department of ECE and CSL at the University of Illinois at Urbana-Champaign (UIUC). He also received M.S. in both ECE and Applied Math from UIUC, and B.E. from Tsinghua University. His research interests lie broadly in Control and Decision Theory, Game Theory, Robotics, Reinforcement/Machine Learning, Computation, and their intersections. He is the recipient of several awards and fellowships, including Hong, McCully, and Allen Fellowship, Simons-Berkeley Research Fellowship, CSL Thesis Award, and ICML Outstanding Paper.
+
+No biography available on the website. NAD.
+
+No biography available on the website. NAD.
+
+Biography Jonas is a postdoctoral researcher at UMD. His background is in Mathematics, more specifically in mathematical optimization and its applications to deep learning. His current focus is on designing more secure and private ML systems, especially for federated learning, and on understanding fundamental phenomena behind generalization.
+
+Biography I am a Victor Basili postdoc in the University of Maryland, College Park. My research interest is to utilize programming language and formal methods techniques to help debug, verify, and reason about programs. Recently, I am focusing on designing quantum computer languages and verification frameworks. I was from China and became an undergraduate in Case Western Reserve University. In 2010, I transferred to UIUC and earned my bachelor, master, and PHD degrees under the advice of Elsa Gunter. Mainly, I was working on formal verification of compilers, mainly, the LLVM compiler. In 2020, I became a postdoc in UMD, and worked on the Checked C project as well as near-term quantum language compiler verification.
+
+No biography available on the website. NAD.
+

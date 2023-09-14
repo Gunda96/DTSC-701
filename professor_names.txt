@@ -1,0 +1,157 @@
+Name: Daniel Abadi
+Name: Ashok Agrawala
+Name: Fardina Alam
+Name: John Aloimonos
+Name: Bahar Asgari
+Name: Clifford Bakalian
+Name: Abhinav Bhatele
+Name: Bobby Bhattacharjee
+Name: Jordan Boyd-Graber
+Name: Jose Calderon
+Name: Marine Carpuat
+Name: Yizheng Chen
+Name: Andrew Childs
+Name: Rance Cleaveland
+Name: Hal Daumé III
+Name: Amol Deshpande
+Name: Laxman Dhulipala
+Name: John Dickerson
+Name: Ramani Duraiswami
+Name: Roger Eastman
+Name: Howard Elman
+Name: Fawzi Emad
+Name: Soheil Feizi
+Name: Hervé Franceschi
+Name: William Gasarch
+Name: Tom Goldstein
+Name: Evan Golub
+Name: Elias Gonzalez
+Name: Daniel Gottesman
+Name: Mohammad Hajiaghayi
+Name: Larry Herman
+Name: Jeffrey K. Hollingsworth
+Name: Heng Huang
+Name: Furong Huang
+Name: Jia-Bin Huang
+Name: David Jacobs
+Name: Jonathan Katz
+Name: Christopher Kauffman
+Name: Pete Keleher
+Name: Paul Kline
+Name: Clyde Kruskal
+Name: Leonidas Lampropoulos
+Name: Dave Levin
+Name: Ming Lin
+Name: Zhicheng Liu
+Name: Zaoxing Liu
+Name: Dinesh Manocha
+Name: Michael Marsh
+Name: Michelle Mazurek
+Name: Christopher Metzler
+Name: Ian Miers
+Name: Stevens Miller
+Name: Erin Molloy
+Name: Maksym Morawski
+Name: David Mount
+Name: Dana Nau
+Name: Murphy Yuezhen Niu
+Name: Nelson Padua-Perez
+Name: Pablo Paredes
+Name: Rob Patro
+Name: Huaishu Peng
+Name: Mihai Pop
+Name: Adam Porter
+Name: James Purtilo
+Name: William Regli
+Name: Nirupam Roy
+Name: Rachel Rudinger
+Name: Pedram Sadeghian
+Name: Hanan Samet
+Name: Abhinav Shrivastava
+Name: Aravind Srinivasan
+Name: Alan Sussman
+Name: Mohammad Nayeem Teli
+Name: Pratap Tokekar
+Name: David Van Horn
+Name: Amitabh Varshney
+Name: Xiaodi Wu
+Name: Justin Wyss-Gallifent
+Name: Ilchul Yoon
+Name: Tianyi Zhou
+Name: Matthias Zwicker
+Name: William Arbaugh
+Name: Victor Basili
+Name: Ben Bederson
+Name: Larry Davis
+Name: Bonnie Dorr
+Name: Michael Hicks
+Name: Laveen Kanal
+Name: Samir Khuller
+Name: Dianne O'Leary
+Name: Don Perlis
+Name: William Pugh
+Name: James Reggia
+Name: Nicholas Roussopoulos
+Name: A. Udaya Shankar
+Name: Ben Shneiderman
+Name: G.W. (Pete) Stewart
+Name: Marvin Zelkowitz
+Name: Jandelyn Plane
+Name: Leilani Battle
+Name: Aniket Bera
+Name: Carlos Castillo
+Name: Hector Corrada Bravo
+Name: Matthew Coudron
+Name: Max Ehrlich
+Name: Niklas Elmqvist
+Name: Jeffrey Foster
+Name: Lise Getoor
+Name: J. Scott Gilkeson
+Name: John Grant
+Name: Michael Gullans
+Name: David Harris
+Name: Max Leiserson
+Name: Marc Lichtman
+Name: Yi-Kai Liu
+Name: Jennifer Manly
+Name: Carl Miller
+Name: C. Anton Rytting
+Name: S. Cenk Sahinalp
+Name: Elaine  Shi
+Name: Garrett Vanhoy
+Name: Gorjan Alagic
+Name: John Baras
+Name: Alexander Barg
+Name: Amrit Singh Bedi
+Name: Maria Cameron
+Name: Joel Chan
+Name: Eun Kyoung Choe
+Name: Michel Cukier
+Name: Michael Cummings
+Name: Dana Dachman-Soled
+Name: Leila De Floriani
+Name: Tudor Dumitras
+Name: Sheena Erete
+Name: Naomi Feldman
+Name: Vanessa Frias-Martinez
+Name: Jennifer Golbeck
+Name: Naeemul Hassan
+Name: John Horty
+Name: Hernisa Kacorri
+Name: Amanda Lazar
+Name: Richard Marciano
+Name: Keith Marzullo
+Name: Doug Oard
+Name: Michael Otte
+Name: Louiqa Raschid
+Name: Philip Resnik
+Name: Uzi Vishkin
+Name: David Weintrop
+Name: Haizhao Yang
+Name: Donald Yeung
+Name: Kaiqing Zhang
+Name: Alexander Block
+Name: Mara Cai
+Name: Jonas Geiping
+Name: Liyi Li
+Name: Aniruddha Saha

@@ -1,0 +1,157 @@
+Prof Daniel Abadi Research Areas: Databases and Big Data,Systems and Networking
+Prof Ashok Agrawala Research Areas: Systems and Networking,Machine Learning and Data Science,IoT and Wearables Technology
+Prof Fardina Alam Research Areas: Bioinformatics and Computational Biology,Machine Learning and Data Science
+Prof John Aloimonos Research Areas: AI and Robotics,Computer Vision and Machine Perception,Graphics Visualization and VR AR
+Prof Bahar Asgari Research Areas: Systems and Networking,High Performance and Scientific Computing
+Prof Clifford Bakalian Research Areas: 
+Prof Abhinav Bhatele Research Areas: High Performance and Scientific Computing,Systems and Networking
+Prof Bobby Bhattacharjee Research Areas: Cybersecurity and Cryptography,Systems and Networking
+Prof Jordan Boyd-Graber Research Areas: AI and Robotics,Information Retrieval and Geographic Information Systems (GIS),Machine Learning and Data Science,Natural Language Processing
+Prof Jose Calderon Research Areas: 
+Prof Marine Carpuat Research Areas: AI and Robotics,Machine Learning and Data Science,Natural Language Processing
+Prof Yizheng Chen Research Areas: Cybersecurity and Cryptography,Machine Learning and Data Science
+Prof Andrew Childs Research Areas: Algorithms and Theory,Quantum Computing
+Prof Rance Cleaveland Research Areas: Programming Languages and Software Engineering
+Prof Hal Daumé III Research Areas: AI and Robotics,Machine Learning and Data Science,Natural Language Processing
+Prof Amol Deshpande Research Areas: Databases and Big Data,Machine Learning and Data Science
+Prof Laxman Dhulipala Research Areas: Algorithms and Theory,High Performance and Scientific Computing,Databases and Big Data,Systems and Networking
+Prof John Dickerson Research Areas: AI and Robotics,Databases and Big Data,Machine Learning and Data Science
+Prof Ramani Duraiswami Research Areas: Computer Vision and Machine Perception,High Performance and Scientific Computing,Information Retrieval and Geographic Information Systems (GIS)
+Prof Roger Eastman Research Areas: AI and Robotics,Computer Vision and Machine Perception,Graphics Visualization and VR AR
+Prof Howard Elman Research Areas: High Performance and Scientific Computing
+Prof Fawzi Emad Research Areas: 
+Prof Soheil Feizi Research Areas: Machine Learning and Data Science,Computer Vision and Machine Perception,AI and Robotics
+Prof Hervé Franceschi Research Areas: 
+Prof William Gasarch Research Areas: Algorithms and Theory
+Prof Tom Goldstein Research Areas: AI and Robotics,Computer Vision and Machine Perception,High Performance and Scientific Computing,Machine Learning and Data Science
+Prof Evan Golub Research Areas: Human Computer Interaction
+Prof Elias Gonzalez Research Areas: 
+Prof Daniel Gottesman Research Areas: Algorithms and Theory,Quantum Computing
+Prof Mohammad Hajiaghayi Research Areas: Algorithms and Theory,Databases and Big Data,Machine Learning and Data Science
+Prof Larry Herman Research Areas: 
+Prof Jeffrey K. Hollingsworth Research Areas: High Performance and Scientific Computing,Systems and Networking
+Prof Heng Huang Research Areas: Machine Learning and Data Science,Bioinformatics and Computational Biology,Computer Vision and Machine Perception,Natural Language Processing,AI and Robotics
+Prof Furong Huang Research Areas: Algorithms and Theory,AI and Robotics,Machine Learning and Data Science
+Prof Jia-Bin Huang Research Areas: AI and Robotics,Computer Vision and Machine Perception,Graphics Visualization and VR AR,Machine Learning and Data Science
+Prof David Jacobs Research Areas: AI and Robotics,Computer Vision and Machine Perception
+Prof Jonathan Katz Research Areas: Algorithms and Theory,Cybersecurity and Cryptography
+Prof Christopher Kauffman Research Areas: 
+Prof Pete Keleher Research Areas: Systems and Networking,Cybersecurity and Cryptography
+Prof Paul Kline Research Areas: 
+Prof Clyde Kruskal Research Areas: Algorithms and Theory
+Prof Leonidas Lampropoulos Research Areas: Programming Languages and Software Engineering
+Prof Dave Levin Research Areas: Cybersecurity and Cryptography,Systems and Networking
+Prof Ming Lin Research Areas: AI and Robotics,Computer Vision and Machine Perception,Graphics Visualization and VR AR,High Performance and Scientific Computing,Human Computer Interaction,Information Retrieval and Geographic Information Systems (GIS),Machine Learning and Data Science
+Prof Zhicheng Liu Research Areas: Human Computer Interaction,Machine Learning and Data Science
+Prof Zaoxing Liu Research Areas: Systems and Networking,Cybersecurity and Cryptography,High Performance and Scientific Computing
+Prof Dinesh Manocha Research Areas: AI and Robotics,Graphics Visualization and VR AR,High Performance and Scientific Computing
+Prof Michael Marsh Research Areas: Cybersecurity and Cryptography,Systems and Networking
+Prof Michelle Mazurek Research Areas: Cybersecurity and Cryptography,Human Computer Interaction
+Prof Christopher Metzler Research Areas: Computer Vision and Machine Perception,AI and Robotics,Machine Learning and Data Science
+Prof Ian Miers Research Areas: Cybersecurity and Cryptography
+Prof Stevens Miller Research Areas: 
+Prof Erin Molloy Research Areas: Bioinformatics and Computational Biology
+Prof Maksym Morawski Research Areas: 
+Prof David Mount Research Areas: Algorithms and Theory,Information Retrieval and Geographic Information Systems (GIS)
+Prof Dana Nau Research Areas: AI and Robotics
+Prof Murphy Yuezhen Niu Research Areas: 
+Prof Nelson Padua-Perez Research Areas: 
+Prof Pablo Paredes Research Areas: 
+Prof Rob Patro Research Areas: Algorithms and Theory,Bioinformatics and Computational Biology,High Performance and Scientific Computing
+Prof Huaishu Peng Research Areas: Human Computer Interaction,IoT and Wearables Technology
+Prof Mihai Pop Research Areas: Bioinformatics and Computational Biology
+Prof Adam Porter Research Areas: Programming Languages and Software Engineering
+Prof James Purtilo Research Areas: 
+Prof William Regli Research Areas: AI and Robotics
+Prof Nirupam Roy Research Areas: Systems and Networking,IoT and Wearables Technology,Cybersecurity and Cryptography
+Prof Rachel Rudinger Research Areas: Natural Language Processing,Machine Learning and Data Science,AI and Robotics
+Prof Pedram Sadeghian Research Areas: 
+Prof Hanan Samet Research Areas: Algorithms and Theory,AI and Robotics,Computer Vision and Machine Perception,Databases and Big Data,Graphics Visualization and VR AR,Information Retrieval and Geographic Information Systems (GIS),Human Computer Interaction,Machine Learning and Data Science,Natural Language Processing,Programming Languages and Software Engineering
+Prof Abhinav Shrivastava Research Areas: Computer Vision and Machine Perception,AI and Robotics,Machine Learning and Data Science,Graphics Visualization and VR AR
+Prof Aravind Srinivasan Research Areas: Algorithms and Theory,Bioinformatics and Computational Biology
+Prof Alan Sussman Research Areas: Databases and Big Data,High Performance and Scientific Computing,Systems and Networking
+Prof Mohammad Nayeem Teli Research Areas: Computer Vision and Machine Perception,Machine Learning and Data Science
+Prof Pratap Tokekar Research Areas: AI and Robotics
+Prof David Van Horn Research Areas: Programming Languages and Software Engineering,Cybersecurity and Cryptography
+Prof Amitabh Varshney Research Areas: Graphics Visualization and VR AR,High Performance and Scientific Computing
+Prof Xiaodi Wu Research Areas: Algorithms and Theory,Programming Languages and Software Engineering,Quantum Computing,Machine Learning and Data Science
+Prof Justin Wyss-Gallifent Research Areas: 
+Prof Ilchul Yoon Research Areas: 
+Prof Tianyi Zhou Research Areas: Machine Learning and Data Science,Natural Language Processing,AI and Robotics,Computer Vision and Machine Perception
+Prof Matthias Zwicker Research Areas: Graphics Visualization and VR AR,Computer Vision and Machine Perception
+Prof William Arbaugh Research Areas: Cybersecurity and Cryptography
+Prof Victor Basili Research Areas: Programming Languages and Software Engineering
+Prof Ben Bederson Research Areas: Human Computer Interaction
+Prof Larry Davis Research Areas: AI and Robotics,Computer Vision and Machine Perception
+Prof Bonnie Dorr Research Areas: AI and Robotics
+Prof Michael Hicks Research Areas: Cybersecurity and Cryptography,Programming Languages and Software Engineering,Systems and Networking
+Prof Laveen Kanal Research Areas: AI and Robotics
+Prof Samir Khuller Research Areas: Algorithms and Theory,Databases and Big Data
+Prof Dianne O'Leary Research Areas: High Performance and Scientific Computing
+Prof Don Perlis Research Areas: AI and Robotics
+Prof William Pugh Research Areas: Programming Languages and Software Engineering
+Prof James Reggia Research Areas: AI and Robotics
+Prof Nicholas Roussopoulos Research Areas: Databases and Big Data,Information Retrieval and Geographic Information Systems (GIS)
+Prof A. Udaya Shankar Research Areas: Systems and Networking
+Prof Ben Shneiderman Research Areas: Human Computer Interaction,Machine Learning and Data Science
+Prof G.W. (Pete) Stewart Research Areas: High Performance and Scientific Computing
+Prof Marvin Zelkowitz Research Areas: Programming Languages and Software Engineering
+Prof Jandelyn Plane Research Areas: 
+Prof Leilani Battle Research Areas: Databases and Big Data,Human Computer Interaction,Machine Learning and Data Science
+Prof Aniket Bera Research Areas: Graphics Visualization and VR AR,AI and Robotics
+Prof Carlos Castillo Research Areas: 
+Prof Hector Corrada Bravo Research Areas: Bioinformatics and Computational Biology,Machine Learning and Data Science
+Prof Matthew Coudron Research Areas: 
+Prof Max Ehrlich Research Areas: Computer Vision and Machine Perception,Machine Learning and Data Science
+Prof Niklas Elmqvist Research Areas: Human Computer Interaction
+Prof Jeffrey Foster Research Areas: Cybersecurity and Cryptography,Programming Languages and Software Engineering
+Prof Lise Getoor Research Areas: AI and Robotics,Databases and Big Data
+Prof J. Scott Gilkeson Research Areas: 
+Prof John Grant Research Areas: AI and Robotics
+Prof Michael Gullans Research Areas: 
+Prof David Harris Research Areas: 
+Prof Max Leiserson Research Areas: Algorithms and Theory,Bioinformatics and Computational Biology,Machine Learning and Data Science
+Prof Marc Lichtman Research Areas: Machine Learning and Data Science,Systems and Networking
+Prof Yi-Kai Liu Research Areas: Algorithms and Theory
+Prof Jennifer Manly Research Areas: 
+Prof Carl Miller Research Areas: Algorithms and Theory
+Prof C. Anton Rytting Research Areas: Natural Language Processing
+Prof S. Cenk Sahinalp Research Areas: Bioinformatics and Computational Biology,Algorithms and Theory
+Prof Elaine  Shi Research Areas: Cybersecurity and Cryptography,Programming Languages and Software Engineering
+Prof Garrett Vanhoy Research Areas: 
+Prof Gorjan Alagic Research Areas: Quantum Computing
+Prof John Baras Research Areas: 
+Prof Alexander Barg Research Areas: Algorithms and Theory
+Prof Amrit Singh Bedi Research Areas: 
+Prof Maria Cameron Research Areas: 
+Prof Joel Chan Research Areas: 
+Prof Eun Kyoung Choe Research Areas: Human Computer Interaction
+Prof Michel Cukier Research Areas: Cybersecurity and Cryptography
+Prof Michael Cummings Research Areas: Bioinformatics and Computational Biology
+Prof Dana Dachman-Soled Research Areas: Algorithms and Theory,Cybersecurity and Cryptography
+Prof Leila De Floriani Research Areas: Graphics Visualization and VR AR,Information Retrieval and Geographic Information Systems (GIS),Machine Learning and Data Science,Computer Vision and Machine Perception
+Prof Tudor Dumitras Research Areas: Cybersecurity and Cryptography
+Prof Sheena Erete Research Areas: 
+Prof Naomi Feldman Research Areas: Natural Language Processing,Machine Learning and Data Science
+Prof Vanessa Frias-Martinez Research Areas: Databases and Big Data,Information Retrieval and Geographic Information Systems (GIS),Machine Learning and Data Science
+Prof Jennifer Golbeck Research Areas: Human Computer Interaction,Machine Learning and Data Science
+Prof Naeemul Hassan Research Areas: Databases and Big Data,Machine Learning and Data Science
+Prof John Horty Research Areas: 
+Prof Hernisa Kacorri Research Areas: Natural Language Processing,Human Computer Interaction,Machine Learning and Data Science
+Prof Amanda Lazar Research Areas: Human Computer Interaction
+Prof Richard Marciano Research Areas: Databases and Big Data,Information Retrieval and Geographic Information Systems (GIS),Machine Learning and Data Science
+Prof Keith Marzullo Research Areas: 
+Prof Doug Oard Research Areas: AI and Robotics,Human Computer Interaction,Information Retrieval and Geographic Information Systems (GIS)
+Prof Michael Otte Research Areas: 
+Prof Louiqa Raschid Research Areas: Databases and Big Data,Machine Learning and Data Science
+Prof Philip Resnik Research Areas: AI and Robotics,Machine Learning and Data Science
+Prof Uzi Vishkin Research Areas: Algorithms and Theory
+Prof David Weintrop Research Areas: 
+Prof Haizhao Yang Research Areas: Algorithms and Theory,AI and Robotics,High Performance and Scientific Computing,Machine Learning and Data Science
+Prof Donald Yeung Research Areas: 
+Prof Kaiqing Zhang Research Areas: AI and Robotics,Algorithms and Theory,Machine Learning and Data Science
+Prof Alexander Block Research Areas: 
+Prof Mara Cai Research Areas: 
+Prof Jonas Geiping Research Areas: Machine Learning and Data Science,Cybersecurity and Cryptography,Computer Vision and Machine Perception
+Prof Liyi Li Research Areas: Programming Languages and Software Engineering,Quantum Computing
+Prof Aniruddha Saha Research Areas: Computer Vision and Machine Perception
